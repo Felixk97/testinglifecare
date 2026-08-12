@@ -1,0 +1,22 @@
+{
+  "promos": {
+    "cny": {
+      "keywords": ["cny", "chinese new year", "cny promo"],
+      "title": "Chinese New Year Health Screening",
+      "packagePdf": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/pdfs/cny-package.pdf",
+      "description": "Enjoy 20% off our Premium Health Screening package this January. Limited slots available — register your interest below.",
+      "formLink": "https://forms.office.com/r/YOUR-FORM-ID",
+      "contactEmail": "info@lifecare.com.my",
+      "contactPhone": "+60123456789"
+    },
+    "corporate": {
+      "keywords": ["corporate", "corporate wellness", "wellness day"],
+      "title": "Corporate Wellness Day Special",
+      "packagePdf": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/pdfs/corporate-package.pdf",
+      "description": "Bring your team for our Corporate Wellness package at a special rate. Valid for bookings of 10 or more staff.",
+      "formLink": "https://forms.office.com/r/YOUR-FORM-ID",
+      "contactEmail": "corporate@lifecare.com.my",
+      "contactPhone": "+60123456789"
+    }
+  }
+}
