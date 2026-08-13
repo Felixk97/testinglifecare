@@ -17,6 +17,15 @@
       "formLink": "https://forms.office.com/r/YOUR-FORM-ID",
       "contactEmail": "corporate@lifecare.com.my",
       "contactPhone": "+60123456789"
+    },
+    "corporate": {
+      "keywords": ["testing"],
+      "title": "Testing",
+      "packagePdf": "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/pdfs/corporate-package.pdf",
+      "description": "Bring your team for our Corporate Wellness package at a special rate. Valid for bookings of 10 or more staff.",
+      "formLink": "https://forms.office.com/r/YOUR-FORM-ID",
+      "contactEmail": "corporate@lifecare.com.my",
+      "contactPhone": "+60123456789"
     }
   }
 }
